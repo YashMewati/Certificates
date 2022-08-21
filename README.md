@@ -21,13 +21,18 @@
 ![IBM - DATA SCIENCE _ Professional Certificate](https://user-images.githubusercontent.com/85125898/185807578-7d4b2457-afef-4dce-bbf6-114bde4e668d.png)
 
 [Database SQL - IBM Certficate.pdf](https://github.com/YashMewati/Certificates/files/9389822/Database.SQL.-.IBM.Certficate.pdf)
+
 [Machine Learning with Python - IBM Certificate.pdf](https://github.com/YashMewati/Certificates/files/9389823/Machine.Learning.with.Python.-.IBM.Certificate.pdf)
+
 [Python for Data Science, AI & Development - IBM Certificate.pdf](https://github.com/YashMewati/Certificates/files/9389824/Python.for.Data.Science.AI.Development.-.IBM.Certificate.pdf)
+
 [Data Analysis with Python IBM.pdf](https://github.com/YashMewati/Certificates/files/9389825/Data.Analysis.with.Python.IBM.pdf)
 [Data Visualization with Python - IBM Certificate.pdf](https://github.com/YashMewati/Certificates/files/9389826/Data.Visualization.with.Python.-.IBM.Certificate.pdf)
 
 
 [Introduction to Computer Vision and Image Processing.pdf](https://github.com/YashMewati/Certificates/files/9389819/Introduction.to.Computer.Vision.and.Image.Processing.pdf)
+
 [Introduction to Deep Learning & Neural Networks with Keras - Certificate.pdf](https://github.com/YashMewati/Certificates/files/9389820/Introduction.to.Deep.Learning.Neural.Networks.with.Keras.-.Certificate.pdf)
+
 [Building Deep Learning Models with TensorFlow.pdf](https://github.com/YashMewati/Certificates/files/9389821/Building.Deep.Learning.Models.with.TensorFlow.pdf)
 

@@ -13,6 +13,9 @@
 [CertificateOfCompletion_UX Design 3 Creating Personas.pdf](https://github.com/YashMewati/Certificates/files/9389818/CertificateOfCompletion_UX.Design.3.Creating.Personas.pdf)
 
 
+## Upgrad Business Analyst Certificates :: 
+![5d4727ff-c7e5-47c0-828f-524f62a5f754](https://github.com/YashMewati/Certificates/assets/85125898/e4aebcfe-43aa-4489-b582-d52cb1a28832)
+
 
 ## Python and Data Science Certificates :: 
 
